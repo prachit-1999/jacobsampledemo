@@ -12,6 +12,7 @@ function App() {
         justifyContent: 'center',
         alignItems: 'center',
         minHeight: '90vh',
+        minWidth: '100vw',
       }}
     >
       <SAMPLE />
