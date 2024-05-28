@@ -1,7 +1,7 @@
 {
   "language": "TypeScript",
   "installCommand": "npm install",
-  "formatCommand": "npc prettier",
+  "formatCommand": "npm prettier",
   "buildCommand": "npm run build",
   "style": "CSS",
   "iconSet": "Material UI",
