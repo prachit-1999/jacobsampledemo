@@ -5,7 +5,7 @@
   "buildCommand": "npm run build",
   "style": "CSS",
   "iconSet": "Material UI",
-  "componentExamples": "/src/Components/SignIn.tsx",
+  "componentExamples": "/src/Components/SAMPLE.tsx",
   "apiEndpointsExamples": "/src/api/exampleEndpoint.js",
   "pageExamples": "/src/pages/ExamplePage.js",
   "directories": {
